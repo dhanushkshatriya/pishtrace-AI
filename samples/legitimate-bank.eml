@@ -1,0 +1,22 @@
+From: notices@securebank.example
+To: customer@example.com
+Reply-To: support@securebank.example
+Return-Path: <bounces@securebank.example>
+Subject: Account statement is ready
+Date: Tue, 02 Jan 2026 10:00:00 +0000
+Message-ID: <legit-001@example.com>
+Authentication-Results: spf=pass; dkim=pass; dmarc=pass
+Received: from mail.securebank.example (mail.securebank.example [203.0.113.6])
+ by outbound.securebank.example with ESMTP id 12345
+Received: from customer.example (mail-gw.example [198.51.100.11])
+ by mail.securebank.example with ESMTP id 67890
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Hello,
+
+Your monthly statement is ready for review in the secure portal.
+We did not request any password or payment changes by email.
+
+Regards,
+SecureBank Team

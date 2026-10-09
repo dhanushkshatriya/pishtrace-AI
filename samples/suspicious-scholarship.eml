@@ -1,0 +1,18 @@
+From: scholarship.office@campus-awards.xyz
+To: student@example.com
+Reply-To: payments@campus-awards.xyz
+Return-Path: <bounce@campus-awards.xyz>
+Subject: Awarded scholarship grant - payment processing fee required
+Date: Wed, 03 Jan 2026 11:00:00 +0000
+Message-ID: <phish-001@campus-awards.xyz>
+Authentication-Results: spf=fail; dkim=fail; dmarc=fail
+Received: from unknown-host.example (unknown-host.example [198.51.100.12])
+ by relay.example.net with ESMTP id aa01
+Received: from user-device (10.0.0.15)
+ by unknown-host.example with ESMTP id aa02
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Congratulations! You have been selected for a scholarship award.
+Please complete the payment processing fee at https://payment-portal-dual.example/fund-transfer
+Use the secure portal now and confirm your account before the deadline.

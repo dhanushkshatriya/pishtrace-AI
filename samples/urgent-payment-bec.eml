@@ -1,0 +1,17 @@
+From: finance@contoso.example
+To: accounts@company.example
+Reply-To: vendor-support@temp-mail.example
+Return-Path: <mail@contoso.example>
+Subject: Urgent payment change request
+Date: Thu, 04 Jan 2026 12:30:00 +0000
+Message-ID: <bec-001@contoso.example>
+Authentication-Results: spf=pass; dkim=unknown; dmarc=unknown
+Received: from smtp.contoso.example (smtp.contoso.example [192.0.2.22])
+ by mail-relay.internal with ESMTP id 1001
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+We have changed vendor bank details.
+Please transfer $18,500 immediately and confirm receipt by reply.
+Do not discuss this externally.
+https://vendor-update.example/confirm
